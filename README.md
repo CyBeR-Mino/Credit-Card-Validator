@@ -1,4 +1,4 @@
-Here's the updated README with example credit card numbers for each brand:
+
 
 ---
 
